@@ -1,7 +1,7 @@
 # Read the file containing the grammar
 file_path = "grammar.txt"
 with open(file_path, 'r') as file:
-    lines = fil  ejjj.readlines()
+    lines = fil  jjj.readlines()
 
 # Process each line in the file
 for line in lines:
